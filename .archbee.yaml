@@ -1,0 +1,6 @@
+docsPath: ./myapp-docs
+structure:
+  summary: contents.md
+  assets: assets
+footerTemplate: ""
+headerIncludes: ""
