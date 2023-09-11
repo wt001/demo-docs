@@ -6,6 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi erat, soda
 ## Download link
 
 {% file src="assets/api-endpoint.png" %}
-Bootcamp API Collection File
+Link File Name
 {% endfile %}
 
