@@ -1,5 +1,5 @@
 - [About](about.md)
-- [Swagger API Petstore](petstore-2.0.yaml)
+- [Swagger API Petstore 2.0](petstore-2.0.yaml)
 ## Syntax
 
 - [Headings](syntax/headings.md)
@@ -19,5 +19,6 @@
 - [code-editor-tabs](directives/code-editor-tabs.md)
 - [code-drawers](directives/code-drawer.md)
 - [embeds](directives/embeds.md)
-- [changelogs](directives/chnagelog.md)
+- [changelogs](directives/changelog.md)
+- [partial](directives/partial.md)
 

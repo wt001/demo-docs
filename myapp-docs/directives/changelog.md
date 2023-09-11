@@ -2,6 +2,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi erat, sodales sed cursus at, condimentum at neque. Vivamus sollicitudin felis nec commodo semper. 
 
+
 ## Changelog import example import via directive
 
 :::changelog{title="Release v1.2"}
