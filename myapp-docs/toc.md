@@ -1,11 +1,14 @@
 - [About](about.md)
 - [Swagger API Petstore 2.0](petstore-2.0.yaml)
+
 ## Syntax
 
 - [Headings](syntax/headings.md)
 - [Links](syntax/links.md)
 - [Images](syntax/images.md)
 - [Lists](syntax/lists.md)
+  - [Lists](syntax/lists-1.md)
+  - [Lists](syntax/lists-1.md)
 - [Tables](syntax/tables.md)
 - [Code editor](syntax/code-editor.md)
 
