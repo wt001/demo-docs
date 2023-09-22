@@ -7,9 +7,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi erat, soda
 
 ::embed{url="https://youtu.be/G333Is7VPOg"}
 
-### Youtube
-
-::embed{url="https://youtu.be/G333Is7VPOg"}
 
 ### Gist
 
