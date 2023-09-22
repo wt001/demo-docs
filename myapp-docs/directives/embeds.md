@@ -10,5 +10,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi erat, soda
 
 ### Gist
 
-::embed{url="https://gist.github.com/67dd89f7c708b456d6ddc3be34733ad8.js"}
+::embed{url="https://gist.github.com/DrSensor/67dd89f7c708b456d6ddc3be34733ad8"}
 
