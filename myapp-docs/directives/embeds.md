@@ -11,3 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi erat, soda
 
 ::embed{url="https://youtu.be/G333Is7VPOg"}
 
+### Gist
+
+::embed{url="https://gist.github.com/67dd89f7c708b456d6ddc3be34733ad8.js"}
+
