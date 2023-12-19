@@ -15,7 +15,7 @@
 
 + [item separator list](syntax/an-item.md)
 
-## Directives22--p
+## Directives in page
 
 - [links](directives/links.md)
 - [emoji](directives/emoji.md)
