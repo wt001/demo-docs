@@ -2,6 +2,5 @@
 
 Import <https://github.com/Archbee/demo-docs> in your Archbee Account and see it how it works!
 
-TEST 222
 
 [Link to the file](./petstore-2.0.yaml)
