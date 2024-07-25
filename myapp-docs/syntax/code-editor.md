@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi erat, soda
 }
 ```
 
-## With a lang specified
+## With a lang specified (new)
 
 ```javascript
 import Navbar from './navbar'
