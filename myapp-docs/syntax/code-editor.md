@@ -2,9 +2,9 @@
 
 ## code block
 
-Lorem IPSUM dolor sit amet, consectetur adipiscing elit. Phasellus mi erat, sodales sed cursus at, condimentum at neque. Vivamus sollicitudin felis nec commodo semper. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi erat, sodales sed cursus at, condimentum at neque. Vivamus sollicitudin felis nec commodo semper.
 
-```
+```text
 {
   "firstName": "John",
   "lastName": "Smith",
@@ -28,3 +28,4 @@ export default function Layout({ children }) {
   )
 }
 ```
+
