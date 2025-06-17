@@ -5,3 +5,4 @@ Import [https://github.com/Archbee/demo-docs](https://github.com/Archbee/demo-do
 test contet
 
 cinemo demo test
+demo 2 way sync 
